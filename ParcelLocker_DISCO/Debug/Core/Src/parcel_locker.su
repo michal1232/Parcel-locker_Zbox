@@ -1,0 +1,8 @@
+parcel_locker.c:58:6:xv_prclcr_uart_rx_callback	24	static
+parcel_locker.c:84:6:xv_prclcr_init	24	static
+parcel_locker.c:108:6:xv_prclcr_get_box_status	32	static
+parcel_locker.c:140:13:err_prclcr_packet_decode	16	static
+parcel_locker.c:202:13:err_prclcr_packet_save	16	static
+parcel_locker.c:263:6:v_prclcr_cmd_set	24	static
+parcel_locker.c:320:13:err_prclcr_box_door_ctr	16	static
+parcel_locker.c:373:6:v_prclcr_box_door_satus	16	static
