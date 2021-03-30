@@ -16,6 +16,6 @@ The differences between the processors mounted on the NUCLEO-STM32G070RBT6 and D
 
 Source code which was developt is located in: 
 
-Core |-> Src |-> parcel_locker.c
-     |       |-> main.c  
-     |-> Inc -> parcel_locker.h
+Core -> Src  -> parcel_locker.c
+             -> main.c  
+     -> Inc -> parcel_locker.h
